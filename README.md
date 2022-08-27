@@ -8,4 +8,4 @@
 - **Birthplace :** Bangkok, Thailand
 - **Email :** 6210612658@student.tu.ac.th
 
-<img src="./profile_image.jpg" width=50%>
+<img src="./profile_image.jpg" width=35%>
